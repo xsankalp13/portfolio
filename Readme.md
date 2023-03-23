@@ -10,7 +10,7 @@ I have worked on several projects in the past
 
 To view all my projects, please check out my GitHub profile.
 
-##Contact Me
+## Contact Me
 If you would like to get in touch with me, please feel free to reach out via email or LinkedIn. I am open to collaboration and new opportunities in my field of interest.
 
 Thank you for visiting my portfolio repository!
