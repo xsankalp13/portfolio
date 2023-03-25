@@ -25,6 +25,8 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import GZ from "./company/GZ.png"
+import ApnaStore from './company/ApnaStore.png'
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -56,6 +58,8 @@ export {
   shopify,
   starbucks,
   tesla,
+  ApnaStore,
+  GZ,
   carrent,
   jobit,
   tripguide,
