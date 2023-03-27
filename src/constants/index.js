@@ -40,6 +40,10 @@ import {
       id: "contact",
       title: "Contact",
     },
+    {
+      id: "linkedin",
+      title:"Linkedin"
+    }
   ];
   
   const services = [
